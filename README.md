@@ -100,9 +100,8 @@ cancer_detection/
 ## 👨‍💻 Author
 
 Deniz Arda YILDIZ  
-Email: [your.email@example.com]  
-GitHub: [github.com/your-username]  
-LinkedIn: [linkedin.com/in/your-profile]
+Email: [denizarda.yildiz@protonmail.com]  
+
 
 ---
 
